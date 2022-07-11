@@ -9,6 +9,7 @@ by Christoph A. Johns at Deutsches Forschungszentrum für Künstliche Intelligen
 
 | Feature Name      | Type   | Content                                                       |
 | ----------------- | ------ | ------------------------------------------------------------- |
+| link_id           | string | identifier of the link (used in end-user research; -99=None)  |
 | source_screen_id  | string | identifier of the source Figma frame (see view hierarchies)   |
 | source_element_id | string | identifier of the source Figma element (see view hierarchies) |
 | target_screen_id  | string | identifier of the target Figma frame (see view hierarchies)   |
