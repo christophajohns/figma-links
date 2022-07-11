@@ -1,0 +1,1556 @@
+{
+    "pages": [
+        {
+            "id": "407:6430",
+            "name": "Shopping Bag (ID=4)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 4,
+            "children": [
+                {
+                    "id": "407:6431",
+                    "name": "Items",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": -1,
+                        "y": 160,
+                        "width": 391,
+                        "height": 272
+                    },
+                    "children": [
+                        {
+                            "id": "407:6432",
+                            "name": "Item (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": -1,
+                                "y": 160,
+                                "width": 391,
+                                "height": 128
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:6433",
+                                    "name": "Image, name and brand",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": -1,
+                                        "y": 160,
+                                        "width": 272,
+                                        "height": 128
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6434",
+                                            "name": "unsplash:1-nx1QR5dTE",
+                                            "type": "RECTANGLE",
+                                            "bounds": {
+                                                "x": -1,
+                                                "y": 160,
+                                                "width": 128,
+                                                "height": 128
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6435",
+                                            "name": "Name and brand",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 143,
+                                                "y": 203,
+                                                "width": 128,
+                                                "height": 42
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6436",
+                                                    "name": "649 – Original",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 143,
+                                                        "y": 203,
+                                                        "width": 111,
+                                                        "height": 21
+                                                    },
+                                                    "characters": "649 – Original"
+                                                },
+                                                {
+                                                    "id": "407:6437",
+                                                    "name": "Persol",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 143,
+                                                        "y": 224,
+                                                        "width": 44,
+                                                        "height": 21
+                                                    },
+                                                    "characters": "Persol"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6438",
+                                    "name": "$261.00",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 280,
+                                        "y": 211,
+                                        "width": 78,
+                                        "height": 27
+                                    },
+                                    "characters": "$261.00"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6439",
+                            "name": "Item",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": -1,
+                                "y": 304,
+                                "width": 391,
+                                "height": 128
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6440",
+                                    "name": "Image, name and brand",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": -1,
+                                        "y": 304,
+                                        "width": 272,
+                                        "height": 128
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6441",
+                                            "name": "unsplash:K62u25Jk6vo",
+                                            "type": "RECTANGLE",
+                                            "bounds": {
+                                                "x": -1,
+                                                "y": 304,
+                                                "width": 128,
+                                                "height": 128
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6442",
+                                            "name": "Name and brand",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 143,
+                                                "y": 347,
+                                                "width": 128,
+                                                "height": 42
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6443",
+                                                    "name": "Wayfarer",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 143,
+                                                        "y": 347,
+                                                        "width": 70,
+                                                        "height": 21
+                                                    },
+                                                    "characters": "Wayfarer"
+                                                },
+                                                {
+                                                    "id": "407:6444",
+                                                    "name": "Ray-Ban",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 143,
+                                                        "y": 368,
+                                                        "width": 60,
+                                                        "height": 21
+                                                    },
+                                                    "characters": "Ray-Ban"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6445",
+                                    "name": "$163.00",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 279,
+                                        "y": 355,
+                                        "width": 79,
+                                        "height": 27
+                                    },
+                                    "characters": "$163.00"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6446",
+                    "name": "Delivery location",
+                    "type": "GROUP",
+                    "bounds": {
+                        "x": 32,
+                        "y": 496,
+                        "width": 326,
+                        "height": 79
+                    },
+                    "children": [
+                        {
+                            "id": "407:6447",
+                            "name": "Delivery Location",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 64,
+                                "y": 992,
+                                "width": 150,
+                                "height": 21
+                            },
+                            "characters": "Delivery Location"
+                        },
+                        {
+                            "id": "407:6448",
+                            "name": "Address (clickable)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 1029,
+                                "width": 326,
+                                "height": 42
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6449",
+                                    "name": "Address",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 1029,
+                                        "width": 128,
+                                        "height": 42
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6450",
+                                            "name": "2337 Strosin Prairie",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 64,
+                                                "y": 1029,
+                                                "width": 145,
+                                                "height": 21
+                                            },
+                                            "characters": "2337 Strosin Prairie"
+                                        },
+                                        {
+                                            "id": "407:6451",
+                                            "name": "85335, Hermannport",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 64,
+                                                "y": 1050,
+                                                "width": 157,
+                                                "height": 21
+                                            },
+                                            "characters": "85335, Hermannport"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6452",
+                                    "name": "chevron-right",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 366,
+                                        "y": 1038,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6453",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 375,
+                                                "y": 1044,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6454",
+                    "name": "Payment method",
+                    "type": "GROUP",
+                    "bounds": {
+                        "x": 32,
+                        "y": 607,
+                        "width": 326,
+                        "height": 79
+                    },
+                    "children": [
+                        {
+                            "id": "407:6455",
+                            "name": "Payment Method",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 64,
+                                "y": 1214,
+                                "width": 148,
+                                "height": 21
+                            },
+                            "characters": "Payment Method"
+                        },
+                        {
+                            "id": "407:6456",
+                            "name": "Credit Card (clickable)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 1251,
+                                "width": 326,
+                                "height": 42
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6457",
+                                    "name": "Credit Card (ID=3)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 1251,
+                                        "width": 128,
+                                        "height": 42
+                                    },
+                                    "evaluationId": 3,
+                                    "children": [
+                                        {
+                                            "id": "407:6458",
+                                            "name": "VISA Classic",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 64,
+                                                "y": 1251,
+                                                "width": 91,
+                                                "height": 21
+                                            },
+                                            "characters": "VISA Classic"
+                                        },
+                                        {
+                                            "id": "407:6459",
+                                            "name": "****–0720",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 64,
+                                                "y": 1272,
+                                                "width": 89,
+                                                "height": 21
+                                            },
+                                            "characters": "****–0720"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6460",
+                                    "name": "chevron-right",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 366,
+                                        "y": 1260,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6461",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 375,
+                                                "y": 1266,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6462",
+                    "name": "Top",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 326,
+                        "height": 32
+                    },
+                    "children": [
+                        {
+                            "id": "407:6463",
+                            "name": "Back to Details (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 64,
+                                "width": 82,
+                                "height": 24
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:6464",
+                                    "name": "arrow-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 64,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6465",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 37,
+                                                "y": 76,
+                                                "width": 14,
+                                                "height": 0
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6466",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 37,
+                                                "y": 69,
+                                                "width": 7,
+                                                "height": 14
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6467",
+                                    "name": "Details",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 66,
+                                        "width": 50,
+                                        "height": 21
+                                    },
+                                    "characters": "Details"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6468",
+                            "name": "Shopping Bag",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 177,
+                                "y": 64,
+                                "width": 181,
+                                "height": 32
+                            },
+                            "characters": "Shopping Bag"
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6469",
+                    "name": "Bottom (fixed)",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 0,
+                        "y": 716,
+                        "width": 390,
+                        "height": 128
+                    },
+                    "children": [
+                        {
+                            "id": "407:6470",
+                            "name": "To Checkout (ID=2)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 748,
+                                "width": 326,
+                                "height": 64
+                            },
+                            "evaluationId": 2,
+                            "children": [
+                                {
+                                    "id": "407:6471",
+                                    "name": "To Checkout",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 128,
+                                        "y": 764,
+                                        "width": 134,
+                                        "height": 32
+                                    },
+                                    "characters": "To Checkout"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:6472",
+            "name": "Detail (ID=3)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 3,
+            "children": [
+                {
+                    "id": "407:6473",
+                    "name": "unsplash:1-nx1QR5dTE",
+                    "type": "RECTANGLE",
+                    "bounds": {
+                        "x": 0,
+                        "y": 104,
+                        "width": 390,
+                        "height": 320
+                    }
+                },
+                {
+                    "id": "407:6474",
+                    "name": "Combining the best of design and technology, this unique shape has become the unmistakable brand icon over time. The keyhole bridge, legendary arrow and Meflecto system are the details that have made this model a timeless classic. Originally designed in 1957 for Turin tram-drivers, 649 soon rose from its functional beginnings. Then became a legend when Marcello Mastroianni wore it in the classic Divorce, Italian Style.",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 557,
+                        "width": 326,
+                        "height": 252
+                    },
+                    "characters": "Combining the best of design and technology, this unique shape has become the unmistakable brand icon over time. The keyhole bridge, legendary arrow and Meflecto system are the details that have made this model a timeless classic. \n\nOriginally designed in 1957 for Turin tram-drivers, 649 soon rose from its functional beginnings. Then became a legend when Marcello Mastroianni wore it in the classic Divorce, Italian Style."
+                },
+                {
+                    "id": "407:6475",
+                    "name": "Name, brand and price",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 488,
+                        "width": 326,
+                        "height": 53
+                    },
+                    "children": [
+                        {
+                            "id": "407:6476",
+                            "name": "Name and brand",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 488,
+                                "width": 166,
+                                "height": 53
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6477",
+                                    "name": "649 – Original",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 488,
+                                        "width": 166,
+                                        "height": 32
+                                    },
+                                    "characters": "649 – Original"
+                                },
+                                {
+                                    "id": "407:6478",
+                                    "name": "Persol",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 520,
+                                        "width": 53,
+                                        "height": 21
+                                    },
+                                    "characters": "Persol"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6479",
+                            "name": "$261.00 (ID=3)",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 265,
+                                "y": 488,
+                                "width": 93,
+                                "height": 32
+                            },
+                            "evaluationId": 3,
+                            "characters": "$261.00"
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6480",
+                    "name": "Top",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 20,
+                        "y": 64,
+                        "width": 338,
+                        "height": 24
+                    },
+                    "children": [
+                        {
+                            "id": "407:6481",
+                            "name": "Back to Classics (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 20,
+                                "y": 64,
+                                "width": 88,
+                                "height": 24
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:6482",
+                                    "name": "arrow-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 20,
+                                        "y": 64,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6483",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 25,
+                                                "y": 76,
+                                                "width": 14,
+                                                "height": 0
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6484",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 25,
+                                                "y": 69,
+                                                "width": 7,
+                                                "height": 14
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6485",
+                                    "name": "Classics",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 52,
+                                        "y": 66,
+                                        "width": 56,
+                                        "height": 21
+                                    },
+                                    "characters": "Classics"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6486",
+                            "name": "heart (ID=2)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 334,
+                                "y": 64,
+                                "width": 24,
+                                "height": 24
+                            },
+                            "evaluationId": 2,
+                            "children": [
+                                {
+                                    "id": "407:6487",
+                                    "name": "Vector",
+                                    "type": "VECTOR",
+                                    "bounds": {
+                                        "x": 336,
+                                        "y": 67,
+                                        "width": 21,
+                                        "height": 18
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6488",
+                    "name": "Bottom (fixed)",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 0,
+                        "y": 716,
+                        "width": 390,
+                        "height": 128
+                    },
+                    "children": [
+                        {
+                            "id": "407:6489",
+                            "name": "To Shopping Bag (ID=4)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 748,
+                                "width": 326,
+                                "height": 64
+                            },
+                            "evaluationId": 4,
+                            "children": [
+                                {
+                                    "id": "407:6490",
+                                    "name": "To Shopping Bag",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 102,
+                                        "y": 764,
+                                        "width": 187,
+                                        "height": 32
+                                    },
+                                    "characters": "To Shopping Bag"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:6491",
+            "name": "Classics (ID=2)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 2,
+            "children": [
+                {
+                    "id": "407:6492",
+                    "name": "Main",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 0,
+                        "y": 160,
+                        "width": 390,
+                        "height": 684
+                    },
+                    "children": [
+                        {
+                            "id": "407:6493",
+                            "name": "Item",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 0,
+                                "y": 160,
+                                "width": 390,
+                                "height": 545
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6494",
+                                    "name": "unsplash:1-nx1QR5dTE",
+                                    "type": "RECTANGLE",
+                                    "bounds": {
+                                        "x": 0,
+                                        "y": 160,
+                                        "width": 390,
+                                        "height": 320
+                                    }
+                                },
+                                {
+                                    "id": "407:6495",
+                                    "name": "Description",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 544,
+                                        "width": 326,
+                                        "height": 161
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6496",
+                                            "name": "Name, brand and price",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 544,
+                                                "width": 326,
+                                                "height": 53
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6497",
+                                                    "name": "Name and brand",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 544,
+                                                        "width": 166,
+                                                        "height": 53
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:6498",
+                                                            "name": "649 – Original",
+                                                            "type": "TEXT",
+                                                            "bounds": {
+                                                                "x": 32,
+                                                                "y": 544,
+                                                                "width": 166,
+                                                                "height": 32
+                                                            },
+                                                            "characters": "649 – Original"
+                                                        },
+                                                        {
+                                                            "id": "407:6499",
+                                                            "name": "Persol",
+                                                            "type": "TEXT",
+                                                            "bounds": {
+                                                                "x": 32,
+                                                                "y": 576,
+                                                                "width": 53,
+                                                                "height": 21
+                                                            },
+                                                            "characters": "Persol"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "407:6500",
+                                                    "name": "$261.00",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 265,
+                                                        "y": 544,
+                                                        "width": 93,
+                                                        "height": 32
+                                                    },
+                                                    "characters": "$261.00"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:6501",
+                                            "name": "Long description",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 613,
+                                                "width": 326,
+                                                "height": 92
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6502",
+                                                    "name": "Combining the best of design and technology, this unique shape has become the unmistakable brand icon over time... (ID=2)",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 613,
+                                                        "width": 326,
+                                                        "height": 63
+                                                    },
+                                                    "evaluationId": 2,
+                                                    "characters": "Combining the best of design and technology, this unique shape has become the unmistakable brand icon over time..."
+                                                },
+                                                {
+                                                    "id": "407:6503",
+                                                    "name": "More details (ID=4)",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 684,
+                                                        "width": 326,
+                                                        "height": 21
+                                                    },
+                                                    "evaluationId": 4,
+                                                    "characters": "More details"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6504",
+                            "name": "Item",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 0,
+                                "y": 769,
+                                "width": 390,
+                                "height": 75
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6505",
+                                    "name": "unsplash:K62u25Jk6vo",
+                                    "type": "RECTANGLE",
+                                    "bounds": {
+                                        "x": 0,
+                                        "y": 769,
+                                        "width": 390,
+                                        "height": 320
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6506",
+                    "name": "Top",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 326,
+                        "height": 32
+                    },
+                    "children": [
+                        {
+                            "id": "407:6507",
+                            "name": "Back home (ID=3)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 64,
+                                "width": 75,
+                                "height": 24
+                            },
+                            "evaluationId": 3,
+                            "children": [
+                                {
+                                    "id": "407:6508",
+                                    "name": "arrow-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 64,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6509",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 37,
+                                                "y": 76,
+                                                "width": 14,
+                                                "height": 0
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6510",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 37,
+                                                "y": 69,
+                                                "width": 7,
+                                                "height": 14
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6511",
+                                    "name": "Home",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 66,
+                                        "width": 43,
+                                        "height": 21
+                                    },
+                                    "characters": "Home"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6512",
+                            "name": "Classics (ID=1)",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 262,
+                                "y": 64,
+                                "width": 96,
+                                "height": 32
+                            },
+                            "evaluationId": 1,
+                            "characters": "Classics"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:6513",
+            "name": "Home (ID=1)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 1,
+            "children": [
+                {
+                    "id": "407:6514",
+                    "name": "Top",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 326,
+                        "height": 32
+                    },
+                    "children": [
+                        {
+                            "id": "407:6515",
+                            "name": "Group 1",
+                            "type": "GROUP",
+                            "bounds": {
+                                "x": 32,
+                                "y": 74,
+                                "width": 32,
+                                "height": 12
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6516",
+                                    "name": "Line 1",
+                                    "type": "LINE",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 84,
+                                        "width": 32,
+                                        "height": 0
+                                    }
+                                },
+                                {
+                                    "id": "407:6517",
+                                    "name": "Line 2",
+                                    "type": "LINE",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 96,
+                                        "width": 32,
+                                        "height": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6518",
+                            "name": "SHAEDS (ID=4)",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 148,
+                                "y": 64,
+                                "width": 103,
+                                "height": 32
+                            },
+                            "evaluationId": 4,
+                            "characters": "SHAEDS"
+                        },
+                        {
+                            "id": "407:6519",
+                            "name": "search",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 334,
+                                "y": 68,
+                                "width": 24,
+                                "height": 24
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6520",
+                                    "name": "Vector",
+                                    "type": "VECTOR",
+                                    "bounds": {
+                                        "x": 337,
+                                        "y": 71,
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                {
+                                    "id": "407:6521",
+                                    "name": "Vector",
+                                    "type": "VECTOR",
+                                    "bounds": {
+                                        "x": 351,
+                                        "y": 85,
+                                        "width": 4,
+                                        "height": 4
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:6522",
+                    "name": "Main",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 160,
+                        "width": 358,
+                        "height": 684
+                    },
+                    "children": [
+                        {
+                            "id": "407:6523",
+                            "name": "Classics",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 160,
+                                "width": 358,
+                                "height": 529
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6524",
+                                    "name": "Collection and see all",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 160,
+                                        "width": 326,
+                                        "height": 32
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6525",
+                                            "name": "Classics",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 160,
+                                                "width": 96,
+                                                "height": 32
+                                            },
+                                            "characters": "Classics"
+                                        },
+                                        {
+                                            "id": "407:6526",
+                                            "name": "See all (ID=3)",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 308,
+                                                "y": 166,
+                                                "width": 50,
+                                                "height": 21
+                                            },
+                                            "evaluationId": 3,
+                                            "characters": "See all"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6527",
+                                    "name": "Items",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 224,
+                                        "width": 358,
+                                        "height": 465
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6528",
+                                            "name": "Item",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 224,
+                                                "width": 256,
+                                                "height": 465
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6529",
+                                                    "name": "unsplash:1-nx1QR5dTE",
+                                                    "type": "RECTANGLE",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 224,
+                                                        "width": 256,
+                                                        "height": 256
+                                                    }
+                                                },
+                                                {
+                                                    "id": "407:6530",
+                                                    "name": "Description",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 512,
+                                                        "width": 256,
+                                                        "height": 145
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:6531",
+                                                            "name": "Name, brand and price",
+                                                            "type": "FRAME",
+                                                            "bounds": {
+                                                                "x": 48,
+                                                                "y": 512,
+                                                                "width": 224,
+                                                                "height": 37
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "id": "407:6532",
+                                                                    "name": "Name and brand",
+                                                                    "type": "FRAME",
+                                                                    "bounds": {
+                                                                        "x": 48,
+                                                                        "y": 512,
+                                                                        "width": 111,
+                                                                        "height": 37
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "407:6533",
+                                                                            "name": "649 – Original",
+                                                                            "type": "TEXT",
+                                                                            "bounds": {
+                                                                                "x": 48,
+                                                                                "y": 512,
+                                                                                "width": 111,
+                                                                                "height": 21
+                                                                            },
+                                                                            "characters": "649 – Original"
+                                                                        },
+                                                                        {
+                                                                            "id": "407:6534",
+                                                                            "name": "Persol",
+                                                                            "type": "TEXT",
+                                                                            "bounds": {
+                                                                                "x": 48,
+                                                                                "y": 533,
+                                                                                "width": 40,
+                                                                                "height": 16
+                                                                            },
+                                                                            "characters": "Persol"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "id": "407:6535",
+                                                                    "name": "$261.00",
+                                                                    "type": "TEXT",
+                                                                    "bounds": {
+                                                                        "x": 210,
+                                                                        "y": 512,
+                                                                        "width": 62,
+                                                                        "height": 21
+                                                                    },
+                                                                    "characters": "$261.00"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "407:6536",
+                                                            "name": "Long description",
+                                                            "type": "FRAME",
+                                                            "bounds": {
+                                                                "x": 48,
+                                                                "y": 565,
+                                                                "width": 224,
+                                                                "height": 92
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "id": "407:6537",
+                                                                    "name": "Combining the best of design and technology, this unique shape has become the unmi...",
+                                                                    "type": "TEXT",
+                                                                    "bounds": {
+                                                                        "x": 48,
+                                                                        "y": 565,
+                                                                        "width": 224,
+                                                                        "height": 63
+                                                                    },
+                                                                    "characters": "Combining the best of design and technology, this unique shape has become the unmi..."
+                                                                },
+                                                                {
+                                                                    "id": "407:6538",
+                                                                    "name": "More details (ID=2)",
+                                                                    "type": "TEXT",
+                                                                    "bounds": {
+                                                                        "x": 48,
+                                                                        "y": 636,
+                                                                        "width": 224,
+                                                                        "height": 21
+                                                                    },
+                                                                    "evaluationId": 2,
+                                                                    "characters": "More details"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:6539",
+                                            "name": "Item",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 320,
+                                                "y": 224,
+                                                "width": 256,
+                                                "height": 465
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:6540",
+                                                    "name": "unsplash:K62u25Jk6vo",
+                                                    "type": "RECTANGLE",
+                                                    "bounds": {
+                                                        "x": 320,
+                                                        "y": 224,
+                                                        "width": 256,
+                                                        "height": 256
+                                                    }
+                                                },
+                                                {
+                                                    "id": "407:6541",
+                                                    "name": "Description",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 320,
+                                                        "y": 512,
+                                                        "width": 256,
+                                                        "height": 145
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:6542",
+                                                            "name": "Name, brand and price",
+                                                            "type": "FRAME",
+                                                            "bounds": {
+                                                                "x": 336,
+                                                                "y": 512,
+                                                                "width": 224,
+                                                                "height": 37
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "id": "407:6543",
+                                                                    "name": "Name and brand",
+                                                                    "type": "FRAME",
+                                                                    "bounds": {
+                                                                        "x": 336,
+                                                                        "y": 512,
+                                                                        "width": 70,
+                                                                        "height": 37
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "407:6544",
+                                                                            "name": "Wayfarer",
+                                                                            "type": "TEXT",
+                                                                            "bounds": {
+                                                                                "x": 336,
+                                                                                "y": 512,
+                                                                                "width": 70,
+                                                                                "height": 21
+                                                                            },
+                                                                            "characters": "Wayfarer"
+                                                                        },
+                                                                        {
+                                                                            "id": "407:6545",
+                                                                            "name": "Ray-Ban",
+                                                                            "type": "TEXT",
+                                                                            "bounds": {
+                                                                                "x": 336,
+                                                                                "y": 533,
+                                                                                "width": 54,
+                                                                                "height": 16
+                                                                            },
+                                                                            "characters": "Ray-Ban"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "407:6547",
+                                                            "name": "Long description",
+                                                            "type": "FRAME",
+                                                            "bounds": {
+                                                                "x": 336,
+                                                                "y": 565,
+                                                                "width": 224,
+                                                                "height": 92
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "id": "407:6548",
+                                                                    "name": "Ray-Ban Original Wayfarer Classics are the most recognizable style in the ...",
+                                                                    "type": "TEXT",
+                                                                    "bounds": {
+                                                                        "x": 336,
+                                                                        "y": 565,
+                                                                        "width": 224,
+                                                                        "height": 63
+                                                                    },
+                                                                    "characters": "Ray-Ban Original Wayfarer Classics are the most recognizable style in the ..."
+                                                                },
+                                                                {
+                                                                    "id": "407:6549",
+                                                                    "name": "More details",
+                                                                    "type": "TEXT",
+                                                                    "bounds": {
+                                                                        "x": 336,
+                                                                        "y": 636,
+                                                                        "width": 224,
+                                                                        "height": 21
+                                                                    },
+                                                                    "characters": "More details"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:6550",
+                            "name": "FW2023",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 753,
+                                "width": 358,
+                                "height": 241
+                            },
+                            "children": [
+                                {
+                                    "id": "407:6551",
+                                    "name": "Collection and see all",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 753,
+                                        "width": 326,
+                                        "height": 32
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6552",
+                                            "name": "FW2023 (ID=1)",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 753,
+                                                "width": 106,
+                                                "height": 32
+                                            },
+                                            "evaluationId": 1,
+                                            "characters": "FW2023"
+                                        },
+                                        {
+                                            "id": "407:6553",
+                                            "name": "See all",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 308,
+                                                "y": 759,
+                                                "width": 50,
+                                                "height": 21
+                                            },
+                                            "characters": "See all"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:6554",
+                                    "name": "Items",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 817,
+                                        "width": 358,
+                                        "height": 177
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:6555",
+                                            "name": "unsplash:FlP6C5pkMKs",
+                                            "type": "RECTANGLE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 817,
+                                                "width": 256,
+                                                "height": 177
+                                            }
+                                        },
+                                        {
+                                            "id": "407:6556",
+                                            "name": "unsplash:ODhxNCO8XHY",
+                                            "type": "RECTANGLE",
+                                            "bounds": {
+                                                "x": 320,
+                                                "y": 817,
+                                                "width": 256,
+                                                "height": 177
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

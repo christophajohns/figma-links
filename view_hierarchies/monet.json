@@ -1,0 +1,3185 @@
+{
+    "pages": [
+        {
+            "id": "407:7974",
+            "name": "Transfer (ID=4)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 4,
+            "children": [
+                {
+                    "id": "407:7975",
+                    "name": "Top navigation",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 326,
+                        "height": 34
+                    },
+                    "children": [
+                        {
+                            "id": "407:7976",
+                            "name": "Back (ID=2)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 65,
+                                "width": 32,
+                                "height": 32
+                            },
+                            "evaluationId": 2,
+                            "children": [
+                                {
+                                    "id": "407:7977",
+                                    "name": "chevron-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 36,
+                                        "y": 69,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7978",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 45,
+                                                "y": 75,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7979",
+                            "name": "Send (ID=4)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 302,
+                                "y": 64,
+                                "width": 56,
+                                "height": 34
+                            },
+                            "evaluationId": 4,
+                            "children": [
+                                {
+                                    "id": "407:7980",
+                                    "name": "Send",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 310,
+                                        "y": 72,
+                                        "width": 40,
+                                        "height": 18
+                                    },
+                                    "characters": "Send"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7981",
+                    "name": "Transfer",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 135,
+                        "y": 64,
+                        "width": 121,
+                        "height": 35
+                    },
+                    "characters": "Transfer"
+                },
+                {
+                    "id": "407:7982",
+                    "name": "Amount (ID=1)",
+                    "type": "GROUP",
+                    "bounds": {
+                        "x": 32,
+                        "y": 156,
+                        "width": 326,
+                        "height": 91
+                    },
+                    "evaluationId": 1,
+                    "children": [
+                        {
+                            "id": "407:7983",
+                            "name": "BG",
+                            "type": "RECTANGLE",
+                            "bounds": {
+                                "x": 64,
+                                "y": 312,
+                                "width": 326,
+                                "height": 91
+                            }
+                        },
+                        {
+                            "id": "407:7984",
+                            "name": "25,00",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 144,
+                                "y": 319,
+                                "width": 162,
+                                "height": 74
+                            },
+                            "characters": "25,00"
+                        },
+                        {
+                            "id": "407:7985",
+                            "name": "€",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 306,
+                                "y": 326,
+                                "width": 24,
+                                "height": 37
+                            },
+                            "characters": "€"
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7986",
+                    "name": "To:",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 301,
+                        "width": 24,
+                        "height": 18
+                    },
+                    "characters": "To:"
+                },
+                {
+                    "id": "407:7987",
+                    "name": "For: (ID=3)",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 343,
+                        "width": 32,
+                        "height": 18
+                    },
+                    "evaluationId": 3,
+                    "characters": "For:"
+                },
+                {
+                    "id": "407:7988",
+                    "name": "Brian Hackett",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 80,
+                        "y": 301,
+                        "width": 97,
+                        "height": 18
+                    },
+                    "characters": "Brian Hackett"
+                },
+                {
+                    "id": "407:7989",
+                    "name": "Pizza night 🍕",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 80,
+                        "y": 343,
+                        "width": 99,
+                        "height": 18
+                    },
+                    "characters": "Pizza night 🍕"
+                },
+                {
+                    "id": "407:7990",
+                    "name": "Contacts",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 409,
+                        "width": 69,
+                        "height": 18
+                    },
+                    "characters": "Contacts"
+                },
+                {
+                    "id": "407:7991",
+                    "name": "Contacts",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 443,
+                        "width": 326,
+                        "height": 440
+                    },
+                    "children": [
+                        {
+                            "id": "407:7992",
+                            "name": "Contact (Paul)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 443,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7993",
+                                    "name": "Profile, name and handle (Paul)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 451,
+                                        "width": 135,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7994",
+                                            "name": "Ellipse 9",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 451,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7995",
+                                            "name": "Name and handle (Paul)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 453,
+                                                "width": 87,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7996",
+                                                    "name": "Paul Becker",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 453,
+                                                        "width": 87,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Paul Becker"
+                                                },
+                                                {
+                                                    "id": "407:7997",
+                                                    "name": "@beckster",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 471,
+                                                        "width": 77,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@beckster"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8000",
+                            "name": "Contact (Brenda)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 507,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8001",
+                                    "name": "Profile, name and handle (Brenda)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 515,
+                                        "width": 176,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8002",
+                                            "name": "Profile",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 515,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:8003",
+                                            "name": "Name and handle (Brenda)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 517,
+                                                "width": 128,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8004",
+                                                    "name": "Brenda Considine",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 517,
+                                                        "width": 128,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Brenda Considine"
+                                                },
+                                                {
+                                                    "id": "407:8005",
+                                                    "name": "@brendacon",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 535,
+                                                        "width": 92,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@brendacon"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8008",
+                            "name": "Contact (Lucy)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 571,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8009",
+                                    "name": "Profile, name and handle (Lucy)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 579,
+                                        "width": 140,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8010",
+                                            "name": "Pic",
+                                            "type": "GROUP",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 579,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8012",
+                                                    "name": "unsplash:Z_bTArFy6ks",
+                                                    "type": "RECTANGLE",
+                                                    "bounds": {
+                                                        "x": 32,
+                                                        "y": 579,
+                                                        "width": 40,
+                                                        "height": 40
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:8013",
+                                            "name": "Name and handle (Lucy)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 581,
+                                                "width": 92,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8014",
+                                                    "name": "Lucy Daniels",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 581,
+                                                        "width": 92,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Lucy Daniels"
+                                                },
+                                                {
+                                                    "id": "407:8015",
+                                                    "name": "@lucyd",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 599,
+                                                        "width": 54,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@lucyd"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8018",
+                            "name": "Contact (Helen)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 635,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8019",
+                                    "name": "Profile, name and handle (Helen)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 643,
+                                        "width": 176,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8020",
+                                            "name": "Profile",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 643,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:8021",
+                                            "name": "Name and handle (Helen)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 645,
+                                                "width": 128,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8022",
+                                                    "name": "Helen Gusikowski",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 645,
+                                                        "width": 128,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Helen Gusikowski"
+                                                },
+                                                {
+                                                    "id": "407:8023",
+                                                    "name": "@heyitshelen",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 663,
+                                                        "width": 98,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@heyitshelen"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8026",
+                            "name": "Contact (Brian) (selected)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 699,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8027",
+                                    "name": "Profile, name and handle (Brian)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 707,
+                                        "width": 145,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8028",
+                                            "name": "Profile",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 707,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:8029",
+                                            "name": "Name and handle (Brian)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 709,
+                                                "width": 97,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8030",
+                                                    "name": "Brian Hackett",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 709,
+                                                        "width": 97,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Brian Hackett"
+                                                },
+                                                {
+                                                    "id": "407:8031",
+                                                    "name": "@bbhackett",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 727,
+                                                        "width": 86,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@bbhackett"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:8032",
+                                    "name": "check",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 334,
+                                        "y": 715,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8033",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 338,
+                                                "y": 721,
+                                                "width": 16,
+                                                "height": 11
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8034",
+                            "name": "Contact (Jermaine)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 763,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8035",
+                                    "name": "Profile, name and handle (Jermaine)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 771,
+                                        "width": 192,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8036",
+                                            "name": "Profile",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 771,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:8037",
+                                            "name": "Name and handle (Jermaine)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 773,
+                                                "width": 144,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8038",
+                                                    "name": "Jermaine Heathcote",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 773,
+                                                        "width": 144,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Jermaine Heathcote"
+                                                },
+                                                {
+                                                    "id": "407:8039",
+                                                    "name": "@jheath",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 791,
+                                                        "width": 60,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "@jheath"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:8042",
+                            "name": "Contact (Julio)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 827,
+                                "width": 326,
+                                "height": 56
+                            },
+                            "children": [
+                                {
+                                    "id": "407:8043",
+                                    "name": "Profile, name and handle (Julio)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 32,
+                                        "y": 835,
+                                        "width": 156,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:8044",
+                                            "name": "Profile",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 32,
+                                                "y": 835,
+                                                "width": 40,
+                                                "height": 40
+                                            }
+                                        },
+                                        {
+                                            "id": "407:8045",
+                                            "name": "Name and handle (Julio)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 80,
+                                                "y": 837,
+                                                "width": 108,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:8046",
+                                                    "name": "Julio Hermann",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 80,
+                                                        "y": 837,
+                                                        "width": 104,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Julio Hermann"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:7815",
+            "name": "Categories (ID=3)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 3,
+            "children": [
+                {
+                    "id": "407:7816",
+                    "name": "Top navigation",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 327,
+                        "height": 35
+                    },
+                    "children": [
+                        {
+                            "id": "407:7817",
+                            "name": "Back (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 66,
+                                "width": 32,
+                                "height": 32
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:7818",
+                                    "name": "chevron-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 36,
+                                        "y": 70,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7819",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 45,
+                                                "y": 76,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7820",
+                            "name": "Categories",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 118,
+                                "y": 64,
+                                "width": 155,
+                                "height": 35
+                            },
+                            "characters": "Categories"
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7821",
+                    "name": "Select a category (ID=4)",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 36,
+                        "y": 131,
+                        "width": 132,
+                        "height": 18
+                    },
+                    "evaluationId": 4,
+                    "characters": "Select a category"
+                },
+                {
+                    "id": "407:7822",
+                    "name": "Categories",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 165,
+                        "width": 326,
+                        "height": 712
+                    },
+                    "children": [
+                        {
+                            "id": "407:7823",
+                            "name": "Category (cafés)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 165,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7824",
+                                    "name": "Category content (cafés)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 181,
+                                        "width": 196,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7825",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 181,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7826",
+                                                    "name": "coffee",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 189,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7827",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 74,
+                                                                "y": 197,
+                                                                "width": 5,
+                                                                "height": 8
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7828",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 58,
+                                                                "y": 197,
+                                                                "width": 16,
+                                                                "height": 13
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7829",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 62,
+                                                                "y": 190,
+                                                                "width": 0,
+                                                                "height": 3
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7830",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 66,
+                                                                "y": 190,
+                                                                "width": 0,
+                                                                "height": 3
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7831",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 70,
+                                                                "y": 190,
+                                                                "width": 0,
+                                                                "height": 3
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7832",
+                                            "name": "Cafés & Restaurants",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 192,
+                                                "width": 148,
+                                                "height": 18
+                                            },
+                                            "characters": "Cafés & Restaurants"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7835",
+                            "name": "Category (cash)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 245,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7836",
+                                    "name": "Category content (cash)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 261,
+                                        "width": 86,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7837",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 261,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7838",
+                                                    "name": "dollar-sign",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 269,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7839",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 68,
+                                                                "y": 270,
+                                                                "width": 0,
+                                                                "height": 22
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7840",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 62,
+                                                                "y": 274,
+                                                                "width": 12,
+                                                                "height": 14
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7841",
+                                            "name": "Cash",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 272,
+                                                "width": 38,
+                                                "height": 18
+                                            },
+                                            "characters": "Cash"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7844",
+                            "name": "Category (education)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 325,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7845",
+                                    "name": "Category content (education)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 341,
+                                        "width": 120,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7846",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 341,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7847",
+                                                    "name": "book",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 349,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7848",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 60,
+                                                                "y": 366,
+                                                                "width": 16,
+                                                                "height": 3
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7849",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 60,
+                                                                "y": 351,
+                                                                "width": 16,
+                                                                "height": 20
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7850",
+                                            "name": "Education",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 352,
+                                                "width": 72,
+                                                "height": 18
+                                            },
+                                            "characters": "Education"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7853",
+                            "name": "Category (gifts) (ID=2)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 405,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "evaluationId": 2,
+                            "children": [
+                                {
+                                    "id": "407:7854",
+                                    "name": "Category content (gifts)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 421,
+                                        "width": 81,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7855",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 421,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7856",
+                                                    "name": "gift",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 429,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7857",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 60,
+                                                                "y": 441,
+                                                                "width": 16,
+                                                                "height": 10
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7858",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 58,
+                                                                "y": 436,
+                                                                "width": 20,
+                                                                "height": 5
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7859",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 68,
+                                                                "y": 436,
+                                                                "width": 0,
+                                                                "height": 15
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7860",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 61,
+                                                                "y": 431,
+                                                                "width": 7,
+                                                                "height": 5
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7861",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 68,
+                                                                "y": 431,
+                                                                "width": 7,
+                                                                "height": 5
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7862",
+                                            "name": "Gifts",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 432,
+                                                "width": 33,
+                                                "height": 18
+                                            },
+                                            "characters": "Gifts"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7865",
+                            "name": "Category (household)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 485,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7866",
+                                    "name": "Category content (household)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 501,
+                                        "width": 196,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7867",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 501,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7868",
+                                                    "name": "home",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 509,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7869",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 511,
+                                                                "width": 18,
+                                                                "height": 20
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7870",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 65,
+                                                                "y": 521,
+                                                                "width": 6,
+                                                                "height": 10
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7871",
+                                            "name": "Household & Utilities",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 512,
+                                                "width": 148,
+                                                "height": 18
+                                            },
+                                            "characters": "Household & Utilities"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7874",
+                            "name": "Category (media)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 565,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7875",
+                                    "name": "Category content (media)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 581,
+                                        "width": 190,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7876",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 581,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7877",
+                                                    "name": "headphones",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 589,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7878",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 592,
+                                                                "width": 18,
+                                                                "height": 15
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7879",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 603,
+                                                                "width": 18,
+                                                                "height": 7
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7880",
+                                            "name": "Media & Electronics",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 592,
+                                                "width": 142,
+                                                "height": 18
+                                            },
+                                            "characters": "Media & Electronics"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7883",
+                            "name": "Category (shopping)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 645,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7884",
+                                    "name": "Category content (shopping)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 661,
+                                        "width": 116,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7885",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 661,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7886",
+                                                    "name": "shopping-cart",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 669,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7887",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 64,
+                                                                "y": 689,
+                                                                "width": 2,
+                                                                "height": 2
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7888",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 75,
+                                                                "y": 689,
+                                                                "width": 2,
+                                                                "height": 2
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7889",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 57,
+                                                                "y": 670,
+                                                                "width": 22,
+                                                                "height": 15
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7890",
+                                            "name": "Shopping",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 672,
+                                                "width": 68,
+                                                "height": 18
+                                            },
+                                            "characters": "Shopping"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7893",
+                            "name": "Category (savings) (ID=3)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 725,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "evaluationId": 3,
+                            "children": [
+                                {
+                                    "id": "407:7894",
+                                    "name": "Category content (savings)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 741,
+                                        "width": 105,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7895",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 741,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7896",
+                                                    "name": "umbrella",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 749,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7897",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 57,
+                                                                "y": 751,
+                                                                "width": 22,
+                                                                "height": 20
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7898",
+                                            "name": "Savings",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 752,
+                                                "width": 57,
+                                                "height": 18
+                                            },
+                                            "characters": "Savings"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7901",
+                            "name": "Category (travel)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 805,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7902",
+                                    "name": "Category content (travel)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 821,
+                                        "width": 173,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7903",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 821,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7904",
+                                                    "name": "briefcase",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 829,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7905",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 58,
+                                                                "y": 836,
+                                                                "width": 20,
+                                                                "height": 14
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7906",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 64,
+                                                                "y": 832,
+                                                                "width": 8,
+                                                                "height": 18
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7907",
+                                            "name": "Travel & Holidays",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 832,
+                                                "width": 125,
+                                                "height": 18
+                                            },
+                                            "characters": "Travel & Holidays"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:7910",
+            "name": "Transaction (ID=2)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 2,
+            "children": [
+                {
+                    "id": "407:7911",
+                    "name": "Top navigation",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 327,
+                        "height": 35
+                    },
+                    "children": [
+                        {
+                            "id": "407:7912",
+                            "name": "Back (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 66,
+                                "width": 32,
+                                "height": 32
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:7913",
+                                    "name": "chevron-left",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 36,
+                                        "y": 70,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7914",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 45,
+                                                "y": 76,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7915",
+                            "name": "Transaction",
+                            "type": "TEXT",
+                            "bounds": {
+                                "x": 111,
+                                "y": 64,
+                                "width": 169,
+                                "height": 35
+                            },
+                            "characters": "Transaction"
+                        },
+                        {
+                            "id": "407:7916",
+                            "name": "More",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 327,
+                                "y": 66,
+                                "width": 32,
+                                "height": 32
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7917",
+                                    "name": "more-horizontal",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 331,
+                                        "y": 70,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7918",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 342,
+                                                "y": 81,
+                                                "width": 2,
+                                                "height": 2
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7919",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 349,
+                                                "y": 81,
+                                                "width": 2,
+                                                "height": 2
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7920",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 335,
+                                                "y": 81,
+                                                "width": 2,
+                                                "height": 2
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7921",
+                    "name": "Transaction overview (ID=2)",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 131,
+                        "width": 323,
+                        "height": 255
+                    },
+                    "evaluationId": 2,
+                    "children": [
+                        {
+                            "id": "407:7922",
+                            "name": "Recipient",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 163,
+                                "width": 191,
+                                "height": 100
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7923",
+                                    "name": "Profile",
+                                    "type": "ELLIPSE",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 163,
+                                        "width": 64,
+                                        "height": 64
+                                    }
+                                },
+                                {
+                                    "id": "407:7924",
+                                    "name": "Brenda Considine",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 235,
+                                        "width": 191,
+                                        "height": 28
+                                    },
+                                    "characters": "Brenda Considine"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7925",
+                            "name": "Amount and date",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 295,
+                                "width": 259,
+                                "height": 59
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7926",
+                                    "name": "-59,46€",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 295,
+                                        "width": 115,
+                                        "height": 37
+                                    },
+                                    "characters": "-59,46€"
+                                },
+                                {
+                                    "id": "407:7927",
+                                    "name": "Thursday, 3 March 2022, 13:48",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 336,
+                                        "width": 222,
+                                        "height": 18
+                                    },
+                                    "characters": "Thursday, 3 March 2022, 13:48"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7928",
+                    "name": "Details",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 450,
+                        "width": 79,
+                        "height": 26
+                    },
+                    "characters": "Details"
+                },
+                {
+                    "id": "407:7929",
+                    "name": "Tags (ID=4)",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 756,
+                        "width": 50,
+                        "height": 26
+                    },
+                    "evaluationId": 4,
+                    "characters": "Tags"
+                },
+                {
+                    "id": "407:7930",
+                    "name": "Tags",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 36,
+                        "y": 798,
+                        "width": 203,
+                        "height": 50
+                    },
+                    "children": [
+                        {
+                            "id": "407:7931",
+                            "name": "#friends",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 36,
+                                "y": 798,
+                                "width": 89,
+                                "height": 50
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7932",
+                                    "name": "#friends",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 52,
+                                        "y": 814,
+                                        "width": 57,
+                                        "height": 18
+                                    },
+                                    "characters": "#friends"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7933",
+                            "name": "#birthdays",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 133,
+                                "y": 798,
+                                "width": 106,
+                                "height": 50
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7934",
+                                    "name": "#birthdays",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 149,
+                                        "y": 814,
+                                        "width": 74,
+                                        "height": 18
+                                    },
+                                    "characters": "#birthdays"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7935",
+                    "name": "Edit",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 327,
+                        "y": 761,
+                        "width": 28,
+                        "height": 18
+                    },
+                    "characters": "Edit"
+                },
+                {
+                    "id": "407:7936",
+                    "name": "Transaction details",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 492,
+                        "width": 326,
+                        "height": 232
+                    },
+                    "children": [
+                        {
+                            "id": "407:7937",
+                            "name": "Category (ID=3)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 492,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "evaluationId": 3,
+                            "children": [
+                                {
+                                    "id": "407:7938",
+                                    "name": "Category (content)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 508,
+                                        "width": 113,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7939",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 508,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7940",
+                                                    "name": "gift",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 516,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7941",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 60,
+                                                                "y": 528,
+                                                                "width": 16,
+                                                                "height": 10
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7942",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 58,
+                                                                "y": 523,
+                                                                "width": 20,
+                                                                "height": 5
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7943",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 68,
+                                                                "y": 523,
+                                                                "width": 0,
+                                                                "height": 15
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7944",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 61,
+                                                                "y": 518,
+                                                                "width": 7,
+                                                                "height": 5
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7945",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 68,
+                                                                "y": 518,
+                                                                "width": 7,
+                                                                "height": 5
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7946",
+                                            "name": "Description and message",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 510,
+                                                "width": 65,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7947",
+                                                    "name": "Category",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 510,
+                                                        "width": 65,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Category"
+                                                },
+                                                {
+                                                    "id": "407:7948",
+                                                    "name": "Gifts",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 528,
+                                                        "width": 33,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Gifts"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7949",
+                                    "name": "chevron-right",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 318,
+                                        "y": 516,
+                                        "width": 24,
+                                        "height": 24
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7950",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 327,
+                                                "y": 522,
+                                                "width": 6,
+                                                "height": 12
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7951",
+                            "name": "Transaction type",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 572,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7952",
+                                    "name": "Transaction type (content)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 588,
+                                        "width": 166,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7953",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 588,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7954",
+                                                    "name": "repeat",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 596,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7955",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 73,
+                                                                "y": 597,
+                                                                "width": 4,
+                                                                "height": 8
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7956",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 601,
+                                                                "width": 18,
+                                                                "height": 6
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7957",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 611,
+                                                                "width": 4,
+                                                                "height": 8
+                                                            }
+                                                        },
+                                                        {
+                                                            "id": "407:7958",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 609,
+                                                                "width": 18,
+                                                                "height": 6
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7959",
+                                            "name": "Description and message",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 590,
+                                                "width": 118,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7960",
+                                                    "name": "Transaction type",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 590,
+                                                        "width": 118,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Transaction type"
+                                                },
+                                                {
+                                                    "id": "407:7961",
+                                                    "name": "Direct transfer",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 608,
+                                                        "width": 101,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Direct transfer"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7964",
+                            "name": "Reference message",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 652,
+                                "width": 326,
+                                "height": 72
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7965",
+                                    "name": "Reference message (content)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 668,
+                                        "width": 192,
+                                        "height": 40
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7966",
+                                            "name": "Icon",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 668,
+                                                "width": 40,
+                                                "height": 40
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7967",
+                                                    "name": "message-square",
+                                                    "type": "FRAME",
+                                                    "bounds": {
+                                                        "x": 56,
+                                                        "y": 676,
+                                                        "width": 24,
+                                                        "height": 24
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "id": "407:7968",
+                                                            "name": "Vector",
+                                                            "type": "VECTOR",
+                                                            "bounds": {
+                                                                "x": 59,
+                                                                "y": 679,
+                                                                "width": 18,
+                                                                "height": 18
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "407:7969",
+                                            "name": "Description and message",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 96,
+                                                "y": 670,
+                                                "width": 144,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7970",
+                                                    "name": "Reference message",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 670,
+                                                        "width": 144,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Reference message"
+                                                },
+                                                {
+                                                    "id": "407:7971",
+                                                    "name": "Gift basket",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 96,
+                                                        "y": 688,
+                                                        "width": 77,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Gift basket"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "407:7751",
+            "name": "Home (ID=1)",
+            "height": 844,
+            "width": 390,
+            "evaluationId": 1,
+            "children": [
+                {
+                    "id": "407:7752",
+                    "name": "Top Background (locked)",
+                    "type": "GROUP",
+                    "bounds": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 390,
+                        "height": 384
+                    },
+                    "children": [
+                        {
+                            "id": "407:7754",
+                            "name": "Rectangle 2",
+                            "type": "RECTANGLE",
+                            "bounds": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 390,
+                                "height": 384
+                            }
+                        },
+                        {
+                            "id": "407:7755",
+                            "name": "Ellipse 3",
+                            "type": "ELLIPSE",
+                            "bounds": {
+                                "x": -103,
+                                "y": -394,
+                                "width": 638,
+                                "height": 638
+                            }
+                        },
+                        {
+                            "id": "407:7756",
+                            "name": "Ellipse 2",
+                            "type": "ELLIPSE",
+                            "bounds": {
+                                "x": 158,
+                                "y": 50,
+                                "width": 513,
+                                "height": 513
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7757",
+                    "name": "Overview (ID=3)",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 64,
+                        "width": 145,
+                        "height": 35
+                    },
+                    "evaluationId": 3,
+                    "characters": "Overview"
+                },
+                {
+                    "id": "407:7758",
+                    "name": "Transactions",
+                    "type": "TEXT",
+                    "bounds": {
+                        "x": 32,
+                        "y": 529,
+                        "width": 138,
+                        "height": 26
+                    },
+                    "characters": "Transactions"
+                },
+                {
+                    "id": "407:7759",
+                    "name": "chevron-right (to all transactions)",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 334,
+                        "y": 530,
+                        "width": 24,
+                        "height": 24
+                    },
+                    "children": [
+                        {
+                            "id": "407:7760",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "bounds": {
+                                "x": 343,
+                                "y": 536,
+                                "width": 6,
+                                "height": 12
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7761",
+                    "name": "Card (ID=2)",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 131,
+                        "width": 326,
+                        "height": 196
+                    },
+                    "evaluationId": 2,
+                    "children": [
+                        {
+                            "id": "407:7762",
+                            "name": "Current balance preview",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 163,
+                                "width": 220,
+                                "height": 92
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7763",
+                                    "name": "Current balance",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 163,
+                                        "width": 114,
+                                        "height": 18
+                                    },
+                                    "characters": "Current balance"
+                                },
+                                {
+                                    "id": "407:7764",
+                                    "name": "Current balance (number w/ eur)",
+                                    "type": "GROUP",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 181,
+                                        "width": 220,
+                                        "height": 74
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7765",
+                                            "name": "717,21",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 64,
+                                                "y": 199,
+                                                "width": 196,
+                                                "height": 74
+                                            },
+                                            "characters": "717,21"
+                                        },
+                                        {
+                                            "id": "407:7766",
+                                            "name": "€",
+                                            "type": "TEXT",
+                                            "bounds": {
+                                                "x": 260,
+                                                "y": 206,
+                                                "width": 24,
+                                                "height": 37
+                                            },
+                                            "characters": "€"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7767",
+                            "name": "Number and Logo",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 64,
+                                "y": 263,
+                                "width": 262,
+                                "height": 32
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7768",
+                                    "name": "**** 6288",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 64,
+                                        "y": 270,
+                                        "width": 66,
+                                        "height": 18
+                                    },
+                                    "characters": "**** 6288"
+                                },
+                                {
+                                    "id": "407:7769",
+                                    "name": "mastercard logo",
+                                    "type": "GROUP",
+                                    "bounds": {
+                                        "x": 274,
+                                        "y": 263,
+                                        "width": 52,
+                                        "height": 32
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7770",
+                                            "name": "Ellipse 4",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 484,
+                                                "y": 263,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7771",
+                                            "name": "Ellipse 5",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 504,
+                                                "y": 263,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7772",
+                                            "name": "Intersect",
+                                            "type": "BOOLEAN_OPERATION",
+                                            "bounds": {
+                                                "x": 504,
+                                                "y": 267,
+                                                "width": 12,
+                                                "height": 25
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7775",
+                    "name": "Add/Send money",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 343,
+                        "width": 326,
+                        "height": 122
+                    },
+                    "children": [
+                        {
+                            "id": "407:7776",
+                            "name": "Add money",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 343,
+                                "width": 155,
+                                "height": 122
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7777",
+                                    "name": "plus",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 94,
+                                        "y": 375,
+                                        "width": 32,
+                                        "height": 32
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7778",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 110,
+                                                "y": 382,
+                                                "width": 0,
+                                                "height": 19
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7779",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 101,
+                                                "y": 391,
+                                                "width": 19,
+                                                "height": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7780",
+                                    "name": "Add money",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 66,
+                                        "y": 415,
+                                        "width": 88,
+                                        "height": 18
+                                    },
+                                    "characters": "Add money"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7781",
+                            "name": "Send money (ID=4)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 203,
+                                "y": 343,
+                                "width": 155,
+                                "height": 121
+                            },
+                            "evaluationId": 4,
+                            "children": [
+                                {
+                                    "id": "407:7782",
+                                    "name": "arrow-right",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 265,
+                                        "y": 375,
+                                        "width": 31,
+                                        "height": 31
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7783",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 271,
+                                                "y": 391,
+                                                "width": 18,
+                                                "height": 0
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7784",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "bounds": {
+                                                "x": 281,
+                                                "y": 381,
+                                                "width": 9,
+                                                "height": 18
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7785",
+                                    "name": "Send money",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 233,
+                                        "y": 414,
+                                        "width": 96,
+                                        "height": 18
+                                    },
+                                    "characters": "Send money"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "407:7786",
+                    "name": "Transactions",
+                    "type": "FRAME",
+                    "bounds": {
+                        "x": 32,
+                        "y": 571,
+                        "width": 326,
+                        "height": 296
+                    },
+                    "children": [
+                        {
+                            "id": "407:7787",
+                            "name": "Transaction 1 (Brenda Considine) (ID=1)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 571,
+                                "width": 326,
+                                "height": 68
+                            },
+                            "evaluationId": 1,
+                            "children": [
+                                {
+                                    "id": "407:7788",
+                                    "name": "Name, Date and Profile (Brenda)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 587,
+                                        "width": 168,
+                                        "height": 36
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7789",
+                                            "name": "Ellipse 8",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 589,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7790",
+                                            "name": "Name and Date (Brenda)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 88,
+                                                "y": 587,
+                                                "width": 128,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7791",
+                                                    "name": "Brenda Considine",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 587,
+                                                        "width": 128,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Brenda Considine"
+                                                },
+                                                {
+                                                    "id": "407:7792",
+                                                    "name": "3 Mar",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 605,
+                                                        "width": 41,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "3 Mar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7793",
+                                    "name": "-59,46€",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 284,
+                                        "y": 596,
+                                        "width": 58,
+                                        "height": 18
+                                    },
+                                    "characters": "-59,46€"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7794",
+                            "name": "Transaction 2",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 647,
+                                "width": 326,
+                                "height": 68
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7795",
+                                    "name": "Name, Date and Profile (Helen)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 663,
+                                        "width": 168,
+                                        "height": 36
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7796",
+                                            "name": "Profile Picture (Helen)",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 665,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7797",
+                                            "name": "Name and Date (Helen)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 88,
+                                                "y": 663,
+                                                "width": 128,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7798",
+                                                    "name": "Helen Gusikowski",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 663,
+                                                        "width": 128,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Helen Gusikowski"
+                                                },
+                                                {
+                                                    "id": "407:7799",
+                                                    "name": "2 Mar",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 681,
+                                                        "width": 41,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "2 Mar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7800",
+                                    "name": "-40,40€",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 284,
+                                        "y": 672,
+                                        "width": 58,
+                                        "height": 18
+                                    },
+                                    "characters": "-40,40€"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7801",
+                            "name": "Transaction 3 (income)",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 723,
+                                "width": 326,
+                                "height": 68
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7802",
+                                    "name": "Name, Date and Profile (Bryant Williamson)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 739,
+                                        "width": 169,
+                                        "height": 36
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7803",
+                                            "name": "Profile Picture (Bryant Williamson)",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 741,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7804",
+                                            "name": "Name and Date (Bryant Williamson)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 88,
+                                                "y": 739,
+                                                "width": 129,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7805",
+                                                    "name": "Bryant Williamson",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 739,
+                                                        "width": 129,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Bryant Williamson"
+                                                },
+                                                {
+                                                    "id": "407:7806",
+                                                    "name": "2 Mar",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 757,
+                                                        "width": 41,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "2 Mar"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7807",
+                                    "name": "+80,00€",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 280,
+                                        "y": 748,
+                                        "width": 62,
+                                        "height": 18
+                                    },
+                                    "characters": "+80,00€"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "407:7808",
+                            "name": "Transaction 4",
+                            "type": "FRAME",
+                            "bounds": {
+                                "x": 32,
+                                "y": 799,
+                                "width": 326,
+                                "height": 68
+                            },
+                            "children": [
+                                {
+                                    "id": "407:7809",
+                                    "name": "Name, Date and Profile (Paul Becker)",
+                                    "type": "FRAME",
+                                    "bounds": {
+                                        "x": 48,
+                                        "y": 815,
+                                        "width": 127,
+                                        "height": 36
+                                    },
+                                    "children": [
+                                        {
+                                            "id": "407:7810",
+                                            "name": "Profile Picture (Paul Becker)",
+                                            "type": "ELLIPSE",
+                                            "bounds": {
+                                                "x": 48,
+                                                "y": 817,
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        {
+                                            "id": "407:7811",
+                                            "name": "Name and Date (Paul Becker)",
+                                            "type": "FRAME",
+                                            "bounds": {
+                                                "x": 88,
+                                                "y": 815,
+                                                "width": 87,
+                                                "height": 36
+                                            },
+                                            "children": [
+                                                {
+                                                    "id": "407:7812",
+                                                    "name": "Paul Becker",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 815,
+                                                        "width": 87,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "Paul Becker"
+                                                },
+                                                {
+                                                    "id": "407:7813",
+                                                    "name": "28 Feb",
+                                                    "type": "TEXT",
+                                                    "bounds": {
+                                                        "x": 88,
+                                                        "y": 833,
+                                                        "width": 50,
+                                                        "height": 18
+                                                    },
+                                                    "characters": "28 Feb"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "407:7814",
+                                    "name": "-33,88€",
+                                    "type": "TEXT",
+                                    "bounds": {
+                                        "x": 284,
+                                        "y": 824,
+                                        "width": 58,
+                                        "height": 18
+                                    },
+                                    "characters": "-33,88€"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
