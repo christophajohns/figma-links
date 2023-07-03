@@ -1,9 +1,8 @@
 # Figma<sub>links</sub> Dataset
 
 This repository contains the dataset that was used for the research described
-in the Aalto University master thesis "Predicting Links for Mobile GUI Prototyping"
-by Christoph A. Johns at Deutsches Forschungszentrum für Künstliche Intelligenz GmbH
-(DFKI) Standort ​Niedersachsen.
+in "Interactive Link Prediction as a Downstream Task for Foundational GUI Understanding Models" by [Christoph A. Johns](mailto:christophjohns@aalto.fi?subject=[GitHub]%20Suggested%20Links%Figma%Plugin) at Aarhus University.
+The project was supervised by Michael Barz at German Research Center for Artificial Intelligence (DFKI).
 
 ## Data Format
 
